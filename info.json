@@ -1,0 +1,245 @@
+[
+  {
+    "id": 1,
+    "name": "lakers",
+    "city": "los angeles",
+    "firstColor": "#552583",
+    "secondColor":"#fdb927",
+    "sizeImage": null
+  },
+  {
+    "id": 2,
+    "name": "clippers",
+    "city": "los angeles",
+    "firstColor": "#1F3D9E",
+    "secondColor": "#ffffff",
+    "sizeImage": "medium"
+  },
+  {
+    "id": 3,
+    "name": "warriors",
+    "city": "golden state",
+    "firstColor": "#1A64B7",
+    "secondColor": "#FBBF16",
+    "sizeImage": "medium"
+  },
+  {
+    "id": 4,
+    "name": "suns",
+    "city": "phoenix",
+    "firstColor": "#DE5D1F",
+    "secondColor": "#F19B1A",
+    "sizeImage": "medium"
+  },
+  { 
+    "id": 5,
+    "name": "kings",
+    "city": "sacramento",
+    "firstColor": "#4D2C7B",
+    "secondColor": "#F7F7F7",
+    "sizeImage": "medium"
+  },
+  {
+    "id": 6,
+    "name": "nuggets",
+    "city": "denver",
+    "firstColor": "#0C1F3D",
+    "secondColor": "#F7C100",
+    "sizeImage": "large"
+  }, 
+  {
+    "id": 7,
+    "name": "timberwolves",
+    "city": "minnesota",
+    "firstColor": "#01153F",
+    "secondColor": "#F3F3F7",
+    "sizeImage": "large"
+  },
+  {
+    "id": 8,
+    "name": "thunder",
+    "city": "oklahoma",
+    "firstColor": "#E84D31",
+    "secondColor": "#1C44D9",
+    "sizeImage": "medium"
+  },
+  {
+    "id": 9,
+    "name": "blazers",
+    "city": "portland",
+    "firstColor": "#CF0805",
+    "secondColor": "#0E0002",
+    "sizeImage": null
+  },
+  {
+    "id": 10,
+    "name": "jazz",
+    "city": "utah",
+    "firstColor": "#001D3D",
+    "secondColor": "#F79C00",
+    "sizeImage": "medium"
+  },
+  {
+    "id": 11,
+    "name": "mavericks",
+    "city": "dallas",
+    "firstColor": "#0068B0",
+    "secondColor": "#F6F6F6",
+    "sizeImage": "large"
+  },
+  { 
+    "id": 12,
+    "name": "rockets",
+    "city": "houston",
+    "firstColor": "#C8103F",
+    "secondColor": "#F7F7F7",
+    "sizeImage": "medium"
+  },
+  {
+    "id": 13,
+    "name": "grizzlies",
+    "city": "memphis",
+    "firstColor": "#11163D",
+    "secondColor": "#5C72A3",
+    "sizeImage": null
+  },
+  {
+    "id": 14,
+    "name": "spurs",
+    "city": "san antonio",
+    "firstColor": "#061821",
+    "secondColor": "#BEC7CC",
+    "sizeImage": null
+  },
+  {
+    "id": 15,
+    "name": "pelicans",
+    "city": "new orleans",
+    "firstColor": "#002959",
+    "secondColor": "#DE1835",
+    "sizeImage": "medium"
+  },
+
+  
+  {
+    "id": 16,
+    "name": "celtics",
+    "city": "boston",
+    "firstColor": "#008248",
+    "secondColor": "#FFFFFF",
+    "sizeImage": "medium"
+  },
+  {
+    "id": 17,
+    "name": "nets",
+    "city": "brooklyn",
+    "firstColor": "#071922",
+    "secondColor": "#FFFFFF",
+    "sizeImage": "medium"
+  },
+  {
+    "id": 18,
+    "name": "knicks",
+    "city": "new york",
+    "firstColor": "#F74800",
+    "secondColor": "#1457AA",
+    "sizeImage": "medium"
+  },
+  {
+    "id": 19,
+    "name": "sixers",
+    "city": "philadelphia",
+    "firstColor": "#E6154E",
+    "secondColor": "#0067AE",
+    "sizeImage": "medium"
+  },
+  {
+    "id": 20,
+    "name": "raptors",
+    "city": "toronto",
+    "firstColor": "#CD1844",
+    "secondColor": "#ffffff",
+    "sizeImage": "medium"
+  },
+  {
+    "id": 21,
+    "name": "hawks",
+    "city": "atlanta",
+    "firstColor": "#E51837",
+    "secondColor": "#ffffff",
+    "sizeImage": null
+  },
+  {
+    "id": 22,
+    "name": "hornets",
+    "city": "charlote",
+    "firstColor": "#007488",
+    "secondColor": "#1C105D",
+    "sizeImage": null
+  },
+  {
+    "id": 23,
+    "name": "heat",
+    "city": "miami",
+    "firstColor": "#93002D",
+    "secondColor": "#F19B1A",
+    "sizeImage": "medium"
+  },
+  {
+    "id": 24,
+    "name": "magic",
+    "city": "orlando",
+    "firstColor": "#406FB2",
+    "secondColor": "#E4E2D0",
+    "sizeImage": "medium"
+  },
+  { 
+    "id": 25,
+    "name": "wizards",
+    "city": "washington",
+    "firstColor": "#DE1835",
+    "secondColor": "#002959",
+    "sizeImage": "large"
+  },
+  {
+    "id": 26,
+    "name": "bulls",
+    "city": "chicago",
+    "firstColor": "#CB1438",
+    "secondColor": "#F6F6F6",
+    "sizeImage": "medium"
+  },
+  {
+    "id": 27,
+    "name": "cavaliers",
+    "city": "cleveland",
+    "firstColor": "#670830",
+    "secondColor": "#DDA11D",
+    "sizeImage": null
+  },
+  {
+    "id": 28,
+    "name": "pistons",
+    "city": "detroit",
+    "firstColor": "#0067B0",
+    "secondColor": "#E73263",
+    "sizeImage": "medium"
+  },
+  {
+    "id": 29,
+    "name": "pacers",
+    "city": "indiana",
+    "firstColor": "#F4B42E",
+    "secondColor": "#002C5F",
+    "sizeImage": "medium"
+  },
+  {
+    "id": 30,
+    "name": "bucks",
+    "city": "milwaukee",
+    "firstColor": "#01461D",
+    "secondColor": "#E8D9C0",
+    "sizeImage": "medium"
+  }
+
+]
